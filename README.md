@@ -12,8 +12,6 @@
 
 National Movie Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that makes a movie.
 
-<p align="center"><a href="https://twitter.com/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
-
 This is the 2022 edition.
 <!-- This is the 2021 edition. For previous years see:
 
@@ -29,7 +27,7 @@ This is the 2022 edition.
 
 ## The Goal
 
-Spend the month of November writing code that generates a movie of 40+ minutes. This is in the spirit of [National Novel Writing Month](http://nanowrimo.org/)This is in the spirit of National Novel Writing Month and the Academy's interesting [definition of a feature film](https://www.oscars.org/sites/oscars/files/93aa_rules.pdf) as 40 minutes. 
+Spend the month of November writing code that generates a movie of 40+ minutes. This is in the spirit of [National Novel Writing Month](http://nanowrimo.org/) and the Academy's interesting [definition of a feature film](https://www.oscars.org/sites/oscars/files/93aa_rules.pdf) as 40 minutes. 
 
 ## The Rules
 
