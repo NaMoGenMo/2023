@@ -1,8 +1,8 @@
-# NaMoGenMo 2022
+# NaMoGenMo 2023
 
-[![entries: completed][~completed]](https://github.com/NaMoGenMo/2022/issues?q=label%3Acompleted)
-[![entries: preview][~preview]](https://github.com/NaMoGenMo/2022/issues?q=label%3Apreview)
-[![issues: admin][~admin]](https://github.com/NaMoGenMo/2022/issues?q=label%3Aadmin)
+[![entries: completed][~completed]](https://github.com/NaMoGenMo/2023/issues?q=label%3Acompleted)
+[![entries: preview][~preview]](https://github.com/NaMoGenMo/2023/issues?q=label%3Apreview)
+[![issues: admin][~admin]](https://github.com/NaMoGenMo/2023/issues?q=label%3Aadmin)
 <!-- [![twitter: nanogenmobot][~twitter]](https://twitter.com/nanogenmobot) -->
 
 [~completed]: https://img.shields.io/badge/entries-completed-0e8a16.svg
@@ -12,7 +12,7 @@
 
 National Movie Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that makes a movie.
 
-This is the 2022 edition.
+This is the 2023 edition.
 <!-- This is the 2021 edition. For previous years see:
 
 * [2020](https://github.com/NaNoGenMo/2020)
